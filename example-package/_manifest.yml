@@ -1,5 +1,6 @@
-name: "example-package"
-title: "Example package"
-description: An example package to show how to host Espanso packages
-version: 0.1.0
-author: Federico Terzi
+name: "journaling-prompts"
+title: "Random Journaling Prompts"
+description: A package for randomly generating prompts for deeper journaling
+version: 0.1
+author: J K Hoffman
+tags: ["utility", "english", "fun", "writing", "journaling", "random"]
