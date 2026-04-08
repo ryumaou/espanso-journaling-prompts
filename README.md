@@ -1,15 +1,9 @@
-# Espanso External Repo Template
+# Espanso External Package for Random Journaling Prompts
 
-This is a template repository you can use as a starting point to host
-your Espanso packages outside the Hub.
+A starter project meant to make an Espanso Package for random prompts to encourage journaling.
 
-In general, this template should be used if you plan to share your packages
-privately, for example with your company's team.
-
-If you plan to publish your packages publicly, we highly recommend
-publishing them inside the [Espanso Hub](https://github.com/espanso/hub) instead.
+Eventually, this will be submitted to the [Espanso Hub](https://github.com/espanso/hub) for public consumption.
 
 ## Usage
 
-For more information about customizing the repository and using it, please
-visit the documentation: https://espanso.org/docs/next/packages/basics/
+Coming Soon!
